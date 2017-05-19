@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <level number="1" difficulty="easy" />
+  <size x="10" y="10" />
+  <y pos="0">
+    <x pos="0" type="wall" />
+    <x pos="1" type="wall" />
+    <x pos="2" type="wall" />
+    <x pos="3" type="wall" />
+    <x pos="4" type="wall" />
+    <x pos="5" type="wall" />
+    <x pos="6" type="wall" />
+    <x pos="7" type="wall" />
+    <x pos="8" type="wall" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="1">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="ground" />
+    <x pos="5" type="ground" />
+    <x pos="6" type="ground" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="ground" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="2">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="box" />
+    <x pos="3" type="boxBreakable" />
+    <x pos="4" type="box" />
+    <x pos="5" type="boxBreakable" />
+    <x pos="6" type="box" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="box" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="3">
+    <x pos="0" type="wall" />
+    <x pos="1" type="box" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="box" />
+    <x pos="4" type="ground" />
+    <x pos="5" type="boxBreakable" />
+    <x pos="6" type="box" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="box" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="4">
+    <x pos="0" type="wall" />
+    <x pos="1" type="boxBreakable" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="box" />
+    <x pos="5" type="box" />
+    <x pos="6" type="ground" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="boxBreakable" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="5">
+    <x pos="0" type="wall" />
+    <x pos="1" type="box" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="box" />
+    <x pos="4" type="ground" />
+    <x pos="5" type="ground" />
+    <x pos="6" type="box" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="box" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="6">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="ground" />
+    <x pos="5" type="ground" />
+    <x pos="6" type="ground" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="ground" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="7">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="ground" />
+    <x pos="5" type="ground" />
+    <x pos="6" type="ground" />
+    <x pos="7" type="ground" />
+    <x pos="8" type="ground" />
+    <x pos="9" type="wall" />
+  </y>
+ <y pos="8">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="boxBreakable" />
+    <x pos="4" type="ground" />
+    <x pos="5" type="boxBreakable" />
+    <x pos="6" type="ground" />
+    <x pos="7" type="boxBreakable" />
+    <x pos="8" type="ground" />
+    <x pos="9" type="wall" />
+  </y>
+  <y pos="9">
+    <x pos="0" type="wall" />
+    <x pos="1" type="wall" />
+    <x pos="2" type="wall" />
+    <x pos="3" type="wall" />
+    <x pos="4" type="wall" />
+    <x pos="5" type="wall" />
+    <x pos="6" type="wall" />
+    <x pos="7" type="wall" />
+    <x pos="8" type="wall" />
+    <x pos="9" type="wall" />
+  </y>
+</map>

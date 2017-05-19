@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <level number="1" difficulty="easy" />
+  <size x="5" y="5" />
+  <y pos="0">
+    <x pos="0" type="wall" />
+    <x pos="1" type="wall" />
+    <x pos="2" type="wall" />
+    <x pos="3" type="wall" />
+    <x pos="4" type="wall" />
+  </y>
+  <y pos="1">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="wall" />
+  </y>
+  <y pos="2">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="wall" />
+  </y>
+  <y pos="3">
+    <x pos="0" type="wall" />
+    <x pos="1" type="ground" />
+    <x pos="2" type="ground" />
+    <x pos="3" type="ground" />
+    <x pos="4" type="wall" />
+  </y>
+  <y pos="4">
+    <x pos="0" type="wall" />
+    <x pos="1" type="wall" />
+    <x pos="2" type="wall" />
+    <x pos="3" type="wall" />
+    <x pos="4" type="wall" />
+  </y>
+</map>
